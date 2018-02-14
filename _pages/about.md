@@ -23,18 +23,14 @@ Publications
 Education
 ======
 * Ph.D. in Information Security**, <ins>University of Chinese Academy of Sciences</ins>,                    Jan. 2015
-
 * B.E. in Computer Science and Technology**, <ins>Ocean University of China</ins>,                      July 2009
 
 Working Experience
 ======
-**Visiting Researcher**, <ins>Indiana University Bloomington</ins>, since Apr. 2016
-
-**Research Assistant Professor**, <ins>Institute of Information Engineering, CAS</ins>, since Feb. 2015
-
-**Research Assistant**, <ins>Institute of Information Engineering, CAS</ins>, May 2012 – Jan. 2015
-
-**Research Assistant**, <ins>Institute of Software, CAS</ins>, Sept. 2009 – Apr. 2012
+* **Visiting Researcher**, <ins>Indiana University Bloomington</ins>, since Apr. 2016
+* **Research Assistant Professor**, <ins>Institute of Information Engineering, CAS</ins>, since Feb. 2015
+* **Research Assistant**, <ins>Institute of Information Engineering, CAS</ins>, May 2012 – Jan. 2015
+* **Research Assistant**, <ins>Institute of Software, CAS</ins>, Sept. 2009 – Apr. 2012
 
 Useful Links
 ------
