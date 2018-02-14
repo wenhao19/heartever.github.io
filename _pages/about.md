@@ -10,12 +10,6 @@ redirect_from:
 
 I am now a research assistant professor at [Institute of Information Engineering](http://www.iie.ac.cn/). Now I am visiting Prof. XiaoFeng Wang's group in Indiana University Bloomington. My research interest now focuses on protecting user privacy data with the help of hardware features, such as Intel SGX. 
 
-Education
-======
-**Ph.D. in Information Security, University of Chinese Academy of Sciences**                    Jan. 2015
-
-**B.E. in Computer Science and Technology, Ocean University of China**                         July 2009
-
 Publications
 ======
 1. Meicheng Liu, Jingchun Yang, **Wenhao Wang**, Dongdai Lin. Correlation Cube Attacks: From Weak-Key Distinguisher to Key Recovery. To appear in proceeding of Eurocrypt 2018. (acceptance rate: 23%)
@@ -27,6 +21,13 @@ Publications
 1. **Wenhao Wang**, Dongdai Lin. Analysis of Multiple Checkpoints in Non-perfect and Perfect Rainbow Tradeoff Revisited. In Proc. of the 15th International Conference on Information and Communications Security (ICICS  '13). (acceptance rate: 20%)
 1. **Wenhao Wang**, Dongdai Lin, Zhenqi Li, Tianze Wang. Improvement and Analysis of VDP Method in Time/Memory Tradeoff Applications. In Proc. of the 13th International Conference on Information and Communications Security (ICICS '11). (acceptance rate: 23%)
 
+Education & Working Experience
+======
+**Ph.D. in Information Security, University of Chinese Academy of Sciences**                    Jan. 2015
+**B.E. in Computer Science and Technology, Ocean University of China**                         July 2009
+
+**Visiting Researcher** / Indiana University Bloomington, since Apr. 2016
+**Research Assistant Professor** / Institute of Information Engineering, Chinese Academy of Sciences, since Feb. 2015
 
 Useful Links
 ------
