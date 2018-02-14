@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am now a research assistant professor at [Institute of Information Engineering](http://www.iie.ac.cn/). Now I am visiting Prof. XiaoFeng Wang's group in Indiana University Bloomington. My research interest now focus on protecting user privacy data with help of hardware features, such as Intel SGX. 
+I am now a research assistant professor at [Institute of Information Engineering](http://www.iie.ac.cn/). Now I am visiting Prof. XiaoFeng Wang's group in Indiana University Bloomington. My research interest now focuses on protecting user privacy data with the help of hardware features, such as Intel SGX. 
 
 Education
 ======
