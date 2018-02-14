@@ -39,3 +39,5 @@ Working Experience
 Useful Links
 ------
 [IACR Calendar of Events in Cryptology](https://www.iacr.org/events/)
+
+[UCL Crypto Group - Forthcoming calls for papers](https://uclouvain.be/crypto/callforpapers/forthcoming)
