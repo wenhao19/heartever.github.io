@@ -22,8 +22,8 @@ Publications
 
 Education
 ======
-* Ph.D. in **Information Security**, <ins>University of Chinese Academy of Sciences</ins>, Jan. 2015
-* B.E. in **Computer Science and Technology**, <ins>Ocean University of China</ins>, July 2009
+* Ph.D. in _Information Security_, <ins>University of Chinese Academy of Sciences</ins>, Jan. 2015
+* B.E. in _Computer Science and Technology_, <ins>Ocean University of China</ins>, July 2009
 
 Working Experience
 ======
