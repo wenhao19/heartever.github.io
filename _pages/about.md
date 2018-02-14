@@ -29,13 +29,13 @@ Education
 
 Working Experience
 ======
-**Visiting Researcher** / Indiana University Bloomington, since Apr. 2016
+**Visiting Researcher**, <ins>Indiana University Bloomington</ins>, since Apr. 2016
 
-**Research Assistant Professor** / Institute of Information Engineering, Chinese Academy of Sciences, since Feb. 2015
+**Research Assistant Professor**, <ins>Institute of Information Engineering, Chinese Academy of Sciences</ins>, since Feb. 2015
 
-**Research Assistant** / Institute of Information Engineering, Chinese Academy of Sciences, May 2012 – Jan. 2015
+**Research Assistant**, <ins>Institute of Information Engineering, Chinese Academy of Sciences</ins>, May 2012 – Jan. 2015
 
-**Research Assistant** / Institute of Software, Chinese Academy of Sciences, Sept. 2009 – Apr. 2012
+**Research Assistant**, <ins>Institute of Software, Chinese Academy of Sciences</ins>, Sept. 2009 – Apr. 2012
 
 Useful Links
 ------
