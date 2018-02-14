@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Wenhao Wang's homepage: welcome"
+title: "Wenhao Wang's homepage (under construction): welcome"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
