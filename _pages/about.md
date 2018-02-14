@@ -21,13 +21,21 @@ Publications
 1. **Wenhao Wang**, Dongdai Lin. Analysis of Multiple Checkpoints in Non-perfect and Perfect Rainbow Tradeoff Revisited. In Proc. of the 15th International Conference on Information and Communications Security (ICICS  '13). (acceptance rate: 20%)
 1. **Wenhao Wang**, Dongdai Lin, Zhenqi Li, Tianze Wang. Improvement and Analysis of VDP Method in Time/Memory Tradeoff Applications. In Proc. of the 13th International Conference on Information and Communications Security (ICICS '11). (acceptance rate: 23%)
 
-Education & Working Experience
+Education
 ======
 **Ph.D. in Information Security, University of Chinese Academy of Sciences**                    Jan. 2015
+
 **B.E. in Computer Science and Technology, Ocean University of China**                         July 2009
 
+Working Experience
+======
 **Visiting Researcher** / Indiana University Bloomington, since Apr. 2016
+
 **Research Assistant Professor** / Institute of Information Engineering, Chinese Academy of Sciences, since Feb. 2015
+
+**Research Assistant** / Institute of Information Engineering, Chinese Academy of Sciences, May 2012 – Jan. 2015
+
+**Research Assistant** / Institute of Software, Chinese Academy of Sciences, Sept. 2009 – Apr. 2012
 
 Useful Links
 ------
