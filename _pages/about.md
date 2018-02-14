@@ -13,6 +13,7 @@ I am now a research assistant professor at [Institute of Information Engineering
 Education
 ======
 •	Ph.D. in Information Security, University of Chinese Academy of Sciences                    Jan. 2015
+
 •	B.E. in Computer Science and Technology, Ocean University of China                          July 2009
 
 Publications
