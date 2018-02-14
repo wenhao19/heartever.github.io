@@ -21,13 +21,6 @@ Working Experience
 * **Research Assistant**, <ins>Institute of Information Engineering, CAS</ins>, May 2012 – Jan. 2015
 * **Research Assistant**, <ins>Institute of Software, CAS</ins>, Sept. 2009 – Apr. 2012
 
-Useful Links
-------
-* [Top Cyber Security Conferences Ranking](http://jianying.space/conference-ranking.html)
-* [IACR Calendar of Events in Cryptology](https://www.iacr.org/events/)
-* [UCL Crypto Group - Forthcoming calls for papers](https://uclouvain.be/crypto/callforpapers/forthcoming)
-* [System Security Circus](http://s3.eurecom.fr/~balzarot/notes/top4/index.html)
-
 Publications
 ======
 1. (**Eurocrypt'2018**) Meicheng Liu, Jingchun Yang, **Wenhao Wang**, Dongdai Lin. _Correlation Cube Attacks: From Weak-Key Distinguisher to Key Recovery_. To appear in proceeding of 37th Annual International Conference on the Theory and Applications of Cryptographic Techniques. (acceptance rate: 23%, CCF-A, [PDF](https://heartever.github.io/files/correlation.pdf))
@@ -38,3 +31,10 @@ Publications
 1. **Wenhao Wang**, Meicheng Liu, Yin Zhang. _Comments on “A design of Boolean functions resistant to (fast) algebraic cryptanalysis with efficient implementation”_. Cryptography and Communications.
 1. **Wenhao Wang**, Dongdai Lin. _Analysis of Multiple Checkpoints in Non-perfect and Perfect Rainbow Tradeoff Revisited_. In Proc. of the 15th International Conference on Information and Communications Security (ICICS'13). (acceptance rate: 20%, CCF-C)
 1. **Wenhao Wang**, Dongdai Lin, Zhenqi Li, Tianze Wang. _Improvement and Analysis of VDP Method in Time/Memory Tradeoff Applications_. In Proc. of the 13th International Conference on Information and Communications Security (ICICS'11). (acceptance rate: 23%, CCF-C)
+
+Useful Links
+------
+* [Top Cyber Security Conferences Ranking](http://jianying.space/conference-ranking.html)
+* [IACR Calendar of Events in Cryptology](https://www.iacr.org/events/)
+* [UCL Crypto Group - Forthcoming calls for papers](https://uclouvain.be/crypto/callforpapers/forthcoming)
+* [System Security Circus](http://s3.eurecom.fr/~balzarot/notes/top4/index.html)
