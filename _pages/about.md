@@ -15,10 +15,10 @@ Publications
 1. (**Oakland'2018**) Guoxing Chen, **Wenhao Wang (co-first author, corresponding author)**, Tianyu Chen, Sanchuan Chen, Yinqian Zhang, XiaoFeng Wang, Ten-Hwang Lai, Dongdai Lin. _Racing in Hyperspace: Closing Hyper-Threading Side Channels on SGX with Contrived Data Races_. To appear in 2018 IEEE Symposium on Security and Privacy (SP). (acceptance rate: 10%)
 1. (**CCS'2017**) **Wenhao Wang**, Guoxing Chen, Xiaorui Pan, Yinqian Zhang, XiaoFeng Wang, Vincent Bindschaedler, Haixu Tang, Carl A. Gunter. _Leaky Cauldron on the Dark Land: Understanding Memory Side-Channel Hazards in SGX_. ACM Conference on Computer and Communications Security. (acceptance rate: 18%)
 1. (**FEAST'2017**) Shuai Wang, **Wenhao Wang**, Qinkun Bao, Pei Wang, XiaoFeng Wang, and Dinghao Wu. _Binary Code Retrofitting and Hardening Using SGX_.  In the 2nd Workshop on Forming an Ecosystem Around Software Transformation, 2017, co-located with CCS 2017.
-1. (**ISIT'2015**)Meicheng Liu, Dongdai Lin, **Wenhao Wang**. _Searching Cubes for Testing Boolean Functions and Its Application to Trivium_. In Proc. of 2015 IEEE International Symposium on Information Theory.
+1. (**ISIT'2015**) Meicheng Liu, Dongdai Lin, **Wenhao Wang**. _Searching Cubes for Testing Boolean Functions and Its Application to Trivium_. In Proc. of 2015 IEEE International Symposium on Information Theory.
 1. **Wenhao Wang**, Meicheng Liu, Yin Zhang. _Comments on “A design of Boolean functions resistant to (fast) algebraic cryptanalysis with efficient implementation”_. Cryptography and Communications.
-1. **Wenhao Wang**, Dongdai Lin. _Analysis of Multiple Checkpoints in Non-perfect and Perfect Rainbow Tradeoff Revisited_. In Proc. of the 15th International Conference on Information and Communications Security (ICICS  '13). (acceptance rate: 20%)
-1. **Wenhao Wang**, Dongdai Lin, Zhenqi Li, Tianze Wang. _Improvement and Analysis of VDP Method in Time/Memory Tradeoff Applications_. In Proc. of the 13th International Conference on Information and Communications Security (ICICS '11). (acceptance rate: 23%)
+1. (**ICICS'2013**) **Wenhao Wang**, Dongdai Lin. _Analysis of Multiple Checkpoints in Non-perfect and Perfect Rainbow Tradeoff Revisited_. In Proc. of the 15th International Conference on Information and Communications Security (ICICS'13). (acceptance rate: 20%)
+1. (**ICICS'2011**) **Wenhao Wang**, Dongdai Lin, Zhenqi Li, Tianze Wang. _Improvement and Analysis of VDP Method in Time/Memory Tradeoff Applications_. In Proc. of the 13th International Conference on Information and Communications Security (ICICS'11). (acceptance rate: 23%)
 
 Education
 ======
