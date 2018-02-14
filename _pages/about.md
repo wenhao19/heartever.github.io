@@ -10,19 +10,19 @@ redirect_from:
 I am now a research assistant professor at [Institute of Information Engineering (IIE)](http://www.iie.ac.cn/). I have been visiting [Prof. XiaoFeng Wang](https://www.informatics.indiana.edu/xw7/)'s group in [Indiana University Bloomington](https://www.indiana.edu/) since April 2016. My research interests now focus on protecting user privacy data with the help of hardware features, such as [Intel SGX](https://software.intel.com/en-us/sgx). I also work closely with Prof. Wang and [Prof. Haixu Tang](https://www.informatics.indiana.edu/hatang/) in organizing the [Genomic data privacy and security protection competition](http://www.humangenomeprivacy.org/).
 
 Education
-======
+------
 * Ph.D. in _Information Security_, <ins>University of Chinese Academy of Sciences</ins>, Jan. 2015
 * B.E. in _Computer Science and Technology_, <ins>Ocean University of China</ins>, July 2009
 
 Working Experience
-======
+------
 * **Visiting Researcher**, <ins>Indiana University Bloomington</ins>, since Apr. 2016
 * **Research Assistant Professor**, <ins>Institute of Information Engineering, CAS</ins>, since Feb. 2015
 * **Research Assistant**, <ins>Institute of Information Engineering, CAS</ins>, May 2012 – Jan. 2015
 * **Research Assistant**, <ins>Institute of Software, CAS</ins>, Sept. 2009 – Apr. 2012
 
 Publications
-======
+------
 1. (**Eurocrypt'2018**) Meicheng Liu, Jingchun Yang, **Wenhao Wang**, Dongdai Lin. _Correlation Cube Attacks: From Weak-Key Distinguisher to Key Recovery_. To appear in proceeding of 37th Annual International Conference on the Theory and Applications of Cryptographic Techniques. (acceptance rate: 23%, CCF-A, [PDF](https://heartever.github.io/files/correlation.pdf))
 1. (**Oakland'2018**) Guoxing Chen, **Wenhao Wang** (<ins>co-first author, corresponding author</ins>), Tianyu Chen, Sanchuan Chen, Yinqian Zhang, XiaoFeng Wang, Ten-Hwang Lai, Dongdai Lin. _Racing in Hyperspace: Closing Hyper-Threading Side Channels on SGX with Contrived Data Races_. To appear in 2018 IEEE Symposium on Security and Privacy (SP). (acceptance rate: 10%, CCF-A, [PDF](https://heartever.github.io/files/racing.pdf))
 1. (**CCS'2017**) **Wenhao Wang**, Guoxing Chen, Xiaorui Pan, Yinqian Zhang, XiaoFeng Wang, Vincent Bindschaedler, Haixu Tang, Carl A. Gunter. _Leaky Cauldron on the Dark Land: Understanding Memory Side-Channel Hazards in SGX_. ACM Conference on Computer and Communications Security. (acceptance rate: 18%, CCF-A, [PDF](https://heartever.github.io/files/leaky.pdf))
