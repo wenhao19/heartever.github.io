@@ -12,7 +12,7 @@ I am now a research assistant professor at [Institute of Information Engineering
 
 Publications
 ======
-##1. Meicheng Liu, Jingchun Yang, **Wenhao Wang**, Dongdai Lin. Correlation Cube Attacks: From Weak-Key Distinguisher to Key Recovery. To appear in proceeding of Eurocrypt 2018. (acceptance rate: 23%)
+1. ##Meicheng Liu, Jingchun Yang, **Wenhao Wang**, Dongdai Lin. Correlation Cube Attacks: From Weak-Key Distinguisher to Key Recovery. To appear in proceeding of Eurocrypt 2018. (acceptance rate: 23%)
 1. Guoxing Chen, **Wenhao Wang (co-first author, corresponding author)**, Tianyu Chen, Sanchuan Chen, Yinqian Zhang, XiaoFeng Wang, Ten-Hwang Lai, Dongdai Lin. Racing in Hyperspace: Closing Hyper-Threading Side Channels on SGX with Contrived Data Races. To appear in 2018 IEEE Symposium on Security and Privacy (SP). (acceptance rate: 10%)
 1. **Wenhao Wang**, Guoxing Chen, Xiaorui Pan, Yinqian Zhang, XiaoFeng Wang, Vincent Bindschaedler, Haixu Tang, Carl A. Gunter. Leaky Cauldron on the Dark Land: Understanding Memory Side-Channel Hazards in SGX. ACM Conference on Computer and Communications Security (CCS 2017). (acceptance rate: 18%)
 1. Shuai Wang, **Wenhao Wang**, Qinkun Bao, Pei Wang, XiaoFeng Wang, and Dinghao Wu. Binary Code Retrofitting and Hardening Using SGX.  In the 2nd Workshop on Forming an Ecosystem Around Software Transformation, 2017, co-located with CCS 2017.
