@@ -17,8 +17,8 @@ Publications
 1. (**FEAST'2017**) Shuai Wang, **Wenhao Wang**, Qinkun Bao, Pei Wang, XiaoFeng Wang, and Dinghao Wu. _Binary Code Retrofitting and Hardening Using SGX_.  In the 2nd Workshop on Forming an Ecosystem Around Software Transformation, 2017, co-located with CCS 2017. [PDF](https://heartever.github.io/files/bsgx-feast17.pdf)
 1. (**ISIT'2015**) Meicheng Liu, Dongdai Lin, **Wenhao Wang**. _Searching Cubes for Testing Boolean Functions and Its Application to Trivium_. In Proc. of 2015 IEEE International Symposium on Information Theory. (CCF-B, [PDF](https://heartever.github.io/files/searching.pdf))
 1. **Wenhao Wang**, Meicheng Liu, Yin Zhang. _Comments on “A design of Boolean functions resistant to (fast) algebraic cryptanalysis with efficient implementation”_. Cryptography and Communications.
-1. (**ICICS'2013**) **Wenhao Wang**, Dongdai Lin. _Analysis of Multiple Checkpoints in Non-perfect and Perfect Rainbow Tradeoff Revisited_. In Proc. of the 15th International Conference on Information and Communications Security (ICICS'13). (acceptance rate: 20%, CCF-C)
-1. (**ICICS'2011**) **Wenhao Wang**, Dongdai Lin, Zhenqi Li, Tianze Wang. _Improvement and Analysis of VDP Method in Time/Memory Tradeoff Applications_. In Proc. of the 13th International Conference on Information and Communications Security (ICICS'11). (acceptance rate: 23%, CCF-C)
+1. **Wenhao Wang**, Dongdai Lin. _Analysis of Multiple Checkpoints in Non-perfect and Perfect Rainbow Tradeoff Revisited_. In Proc. of the 15th International Conference on Information and Communications Security (ICICS'13). (acceptance rate: 20%, CCF-C)
+1. **Wenhao Wang**, Dongdai Lin, Zhenqi Li, Tianze Wang. _Improvement and Analysis of VDP Method in Time/Memory Tradeoff Applications_. In Proc. of the 13th International Conference on Information and Communications Security (ICICS'11). (acceptance rate: 23%, CCF-C)
 
 Education
 ======
