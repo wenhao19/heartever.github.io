@@ -31,11 +31,11 @@ Working Experience
 ======
 **Visiting Researcher**, <ins>Indiana University Bloomington</ins>, since Apr. 2016
 
-**Research Assistant Professor**, <ins>Institute of Information Engineering, Chinese Academy of Sciences</ins>, since Feb. 2015
+**Research Assistant Professor**, <ins>Institute of Information Engineering, CAS</ins>, since Feb. 2015
 
-**Research Assistant**, <ins>Institute of Information Engineering, Chinese Academy of Sciences</ins>, May 2012 – Jan. 2015
+**Research Assistant**, <ins>Institute of Information Engineering, CAS</ins>, May 2012 – Jan. 2015
 
-**Research Assistant**, <ins>Institute of Software, Chinese Academy of Sciences</ins>, Sept. 2009 – Apr. 2012
+**Research Assistant**, <ins>Institute of Software, CAS</ins>, Sept. 2009 – Apr. 2012
 
 Useful Links
 ------
