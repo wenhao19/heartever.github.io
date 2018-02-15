@@ -13,3 +13,4 @@ author_profile: true
 1. Computer architecture - list of micro-architectural channels, <ins>[link](https://github.com/MattPD/cpplinks/blob/master/comparch.micro.channels.md)</ins>.
 1. Intel® Architecture Memory Encryption Technologies Specification <ins>[pdf](https://software.intel.com/sites/default/files/managed/a5/16/Multi-Key-Total-Memory-Encryption-Spec.pdf)</ins>.
 1. Cheat sheet for Intel Processor Trace with Linux perf and gdb by Andi Kleen, <ins>[link](http://halobates.de/blog/p/410)</ins>.
+1. MeltdownPrime and SpectrePrime: Automatically-Synthesized Attacks Exploiting Invalidation-Based Coherence Protocols, <ins>[link](https://arxiv.org/abs/1802.03802)</ins>.
