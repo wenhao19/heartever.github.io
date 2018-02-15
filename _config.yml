@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Homepage - Wenhao Wang"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Wenhao Wang"
 description              : &description "Research Assistant Professor at Institute of Information Engineering, currently visiting Indiana University Bloomington"
