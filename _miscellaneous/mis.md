@@ -1,1 +1,1 @@
-List of stuff that I find interesting and/or useful.
+These are things that I find interesting.
