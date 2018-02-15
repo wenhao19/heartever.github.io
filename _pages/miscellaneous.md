@@ -5,6 +5,4 @@ permalink: /miscellaneous/
 author_profile: true
 ---
 
-{% include base_path %}
-
-{% include miscellaneous-single.md %}
+**It's a test**
