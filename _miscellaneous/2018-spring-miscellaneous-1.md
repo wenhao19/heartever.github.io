@@ -1,5 +1,5 @@
 ---
-title: "Miscellaneous 1"
+title: "These are things that I find interesting."
 collection: miscellaneous
 type: "none"
 permalink: /teaching/2018-spring-miscellaneous-1
