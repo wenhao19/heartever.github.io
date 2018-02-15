@@ -38,3 +38,5 @@ Useful Links
 * [IACR Calendar of Events in Cryptology](https://www.iacr.org/events/)
 * [UCL Crypto Group - Forthcoming calls for papers](https://uclouvain.be/crypto/callforpapers/forthcoming)
 * [System Security Circus](http://s3.eurecom.fr/~balzarot/notes/top4/index.html)
+
+Last updated: 2018/2/15
