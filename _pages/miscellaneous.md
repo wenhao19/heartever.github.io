@@ -5,4 +5,6 @@ permalink: /miscellaneous/
 author_profile: true
 ---
 
-**It's a test**
+**These are things that I find useful.**
+---
+
