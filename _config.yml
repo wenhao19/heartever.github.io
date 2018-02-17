@@ -279,6 +279,7 @@ whitelist:
   - jekyll-feed
   - jemoji
   
+plugins:
   - jekyll-seo-tag
 
 
