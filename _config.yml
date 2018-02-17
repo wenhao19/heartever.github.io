@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Homepage"
 title_separator          : "-"
-name                     : &name "Wenhao Wang (王文浩)"
+name                     : &name "Wenhao Wang"
 description              : &description "Research Assistant Professor at Institute of Information Engineering, currently visiting Indiana University Bloomington"
 url                      : https://heartever.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
