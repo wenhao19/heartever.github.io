@@ -4,6 +4,7 @@ title: "These are things that I find useful."
 permalink: /miscellaneous/
 author_profile: true
 ---
+
 1. Lectures by Onur Mutlu on Computer Architecture <ins>[Youtube videos](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi9OhoVQBXYFIZywZXCPl4M_)</ins>.
 2. External flashing of the firmware. <ins>[me_cleaner@github](https://github.com/corna/me_cleaner/wiki/External-flashing)</ins>.
 3. Software optimization resources by Agner <ins>[link](http://agner.org/optimize/)</ins>, <ins>[microarchitecture of Intel, AMD and VIA CPUs](http://agner.org/optimize/microarchitecture.pdf)</ins>.
