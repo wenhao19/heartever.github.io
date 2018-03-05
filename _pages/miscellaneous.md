@@ -16,3 +16,4 @@ author_profile: true
 1. Cheat sheet for Intel Processor Trace with Linux perf and gdb by Andi Kleen, <ins>[link](http://halobates.de/blog/p/410)</ins>.
 1. MeltdownPrime and SpectrePrime: Automatically-Synthesized Attacks Exploiting Invalidation-Based Coherence Protocols, <ins>[link](https://arxiv.org/abs/1802.03802)</ins>.
 1. <ins>[The Basic Toolbox](https://blog.regehr.org/archives/1578)</ins> for a computer science students by Prof. John Regehr.
+1. How is a paper evaluated? See <ins>[here](https://nebelwelt.net/blog/20180303-PCexperience.html)</ins>.
