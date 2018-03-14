@@ -17,3 +17,6 @@ author_profile: true
 1. MeltdownPrime and SpectrePrime: Automatically-Synthesized Attacks Exploiting Invalidation-Based Coherence Protocols, <ins>[link](https://arxiv.org/abs/1802.03802)</ins>.
 1. <ins>[The Basic Toolbox](https://blog.regehr.org/archives/1578)</ins> for a computer science students by Prof. John Regehr.
 1. How is a paper evaluated? See <ins>[here](https://nebelwelt.net/blog/20180303-PCexperience.html)</ins>.
+1. AMD flaws. [link](https://safefirmware.com/amdflaws_whitepaper.pdf)
+1. Reviewing System Security Papers. [link](https://www.sigarch.org/reviewing-system-security-papers/)
+1. Nice paper on causing bit flips in Firefox arrays on Android by abusing WebGL shader textures: [here](https://csdl.computer.org/csdl/proceedings/sp/2018/4353/00/435301a357.pdf)
