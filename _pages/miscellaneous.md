@@ -21,3 +21,4 @@ author_profile: true
 1. Reviewing System Security Papers. [link](https://www.sigarch.org/reviewing-system-security-papers/)
 1. Nice paper on causing bit flips in Firefox arrays on Android by abusing WebGL shader textures: [here](https://csdl.computer.org/csdl/proceedings/sp/2018/4353/00/435301a357.pdf)
 1. Codes for Rowhammer attacks. [one-location hammering](https://github.com/IAIK/flipfloyd), [double-sided hammering](https://github.com/IAIK/rowhammerjs/tree/master/native)
+1. Grand Pwning Unit: Accelerating Microarchitectural Attacks with the GPU (EuroSys 2018).
