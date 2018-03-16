@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "These are things that I find useful."
+title: "Reading list."
 permalink: /miscellaneous/
 author_profile: true
 ---
