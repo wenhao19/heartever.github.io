@@ -3,6 +3,8 @@ layout: archive
 title: "Reading list."
 permalink: /miscellaneous/
 author_profile: true
+redirect_from: 
+  - /miscellaneous.html
 ---
 | Entry            | Item                                                                 |
 | --------         | ------------------------------------------------------------------ |
