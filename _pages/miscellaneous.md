@@ -6,9 +6,8 @@ author_profile: true
 ---
 
 ---
-Speculative Execution Bounty Launch by Microsoft. [link](https://blogs.technet.microsoft.com/msrc/2018/03/14/speculative-execution-bounty-launch/) Microsoft blog on ["Mitigating speculative execution side channel hardware vulnerabilities"](https://blogs.technet.microsoft.com/srd/2018/03/15/mitigating-speculative-execution-side-channel-hardware-vulnerabilities/).
-
-Lectures by Onur Mutlu on Computer Architecture <ins>[Youtube videos](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi9OhoVQBXYFIZywZXCPl4M_)</ins>.
+1. Speculative Execution Bounty Launch by Microsoft. [link](https://blogs.technet.microsoft.com/msrc/2018/03/14/speculative-execution-bounty-launch/) Microsoft blog on ["Mitigating speculative execution side channel hardware vulnerabilities"](https://blogs.technet.microsoft.com/srd/2018/03/15/mitigating-speculative-execution-side-channel-hardware-vulnerabilities/).
+2. Lectures by Onur Mutlu on Computer Architecture <ins>[Youtube videos](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi9OhoVQBXYFIZywZXCPl4M_)</ins>.
 
 External flashing of the firmware. <ins>[me_cleaner@github](https://github.com/corna/me_cleaner/wiki/External-flashing)</ins>.
 1. Software optimization resources by Agner <ins>[link](http://agner.org/optimize/)</ins>, <ins>[microarchitecture of Intel, AMD and VIA CPUs](http://agner.org/optimize/microarchitecture.pdf)</ins>.
