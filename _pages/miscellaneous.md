@@ -5,10 +5,10 @@ permalink: /miscellaneous/
 author_profile: true
 ---
 
+---
 1. Speculative Execution Bounty Launch by Microsoft. [link](https://blogs.technet.microsoft.com/msrc/2018/03/14/speculative-execution-bounty-launch/) Microsoft blog on ["Mitigating speculative execution side channel hardware vulnerabilities"](https://blogs.technet.microsoft.com/srd/2018/03/15/mitigating-speculative-execution-side-channel-hardware-vulnerabilities/).
-2. Lectures by Onur Mutlu on Computer Architecture <ins>[Youtube videos](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi9OhoVQBXYFIZywZXCPl4M_)</ins>.
-
-External flashing of the firmware. <ins>[me_cleaner@github](https://github.com/corna/me_cleaner/wiki/External-flashing)</ins>.
+1. Lectures by Onur Mutlu on Computer Architecture <ins>[Youtube videos](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi9OhoVQBXYFIZywZXCPl4M_)</ins>.
+1. External flashing of the firmware. <ins>[me_cleaner@github](https://github.com/corna/me_cleaner/wiki/External-flashing)</ins>.
 1. Software optimization resources by Agner <ins>[link](http://agner.org/optimize/)</ins>, <ins>[microarchitecture of Intel, AMD and VIA CPUs](http://agner.org/optimize/microarchitecture.pdf)</ins>.
 1. <ins>[Reading privileged memory with a side-channel by Project Zero](https://googleprojectzero.blogspot.ca/2018/01/reading-privileged-memory-with-side.html)</ins>, <ins>[Some thoughts on Spectre and Meltdown](http://www.daemonology.net/blog/2018-01-17-some-thoughts-on-spectre-and-meltdown.html)</ins>, <ins>[Meltdown from a CPU architect's view](https://www.realworldtech.com/forum/?threadid=174129&curpostid=174159)</ins>.
 1. Intel SGX Academic Research List, <ins>[link](https://software.intel.com/en-us/sgx/academic-research)</ins>.
