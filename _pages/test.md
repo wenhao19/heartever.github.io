@@ -1,3 +1,11 @@
+---
+permalink: /test/
+title: "test"
+author_profile: true
+redirect_from: 
+  - /test.html
+---
+
 ### Table 1
 
 | Entry            | Item   |                                                              |
