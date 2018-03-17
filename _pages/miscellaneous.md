@@ -5,8 +5,8 @@ author_profile: true
 redirect_from: 
   - /miscellaneous.html
 ---
-| Item                                                                 |
-| ------------------------------------------------------------------ |
+| Items                                                                 |
+| --------------------------------------------------------------------- |
 | Speculative Execution Bounty Launch by Microsoft. [link](https://blogs.technet.microsoft.com/msrc/2018/03/14/speculative-execution-bounty-launch/) Microsoft blog on ["Mitigating speculative execution side channel hardware vulnerabilities"](https://blogs.technet.microsoft.com/srd/2018/03/15/mitigating-speculative-execution-side-channel-hardware-vulnerabilities/). |
 | Lectures by Onur Mutlu on Computer Architecture [Youtube videos](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi9OhoVQBXYFIZywZXCPl4M_). | 
 | External flashing of the firmware. [me_cleaner@github](https://github.com/corna/me_cleaner/wiki/External-flashing). | 
