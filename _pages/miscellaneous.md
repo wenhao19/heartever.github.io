@@ -1,7 +1,7 @@
 ---
 title: "Reading list."
 permalink: /miscellaneous/
-author_profile: true
+author_profile: false
 redirect_from: 
   - /miscellaneous.html
 ---
