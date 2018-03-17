@@ -1,8 +1,10 @@
 ---
-layout: archive
-title: "Reading list."
 permalink: /miscellaneous/
+title: "Reading list"
 author_profile: true
+redirect_from: 
+  - /miscellaneous/
+  - /miscellaneous.html
 ---
 
 ---
