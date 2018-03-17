@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "Reading list."
 permalink: /miscellaneous/
 author_profile: true
