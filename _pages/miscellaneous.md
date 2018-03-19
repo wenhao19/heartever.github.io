@@ -5,8 +5,8 @@ author_profile: true
 redirect_from: 
   - /miscellaneous.html
 ---
-| Category    | Items                                                                 |
-|-------------|---------------------------------------------------------------------- |
+| Category                 | Items                                                                            |
+|--------------------------|--------------------------------------------------------------------------------- |
 | Computer Architecture | Software optimization resources by Agner [link](http://agner.org/optimize/), [microarchitecture of Intel, AMD and VIA CPUs](http://agner.org/optimize/microarchitecture.pdf). | 
 | Computer Architecture | Lectures by Onur Mutlu on Computer Architecture [Youtube videos](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi9OhoVQBXYFIZywZXCPl4M_). |
 | Micro-architectural channels | Computer architecture - list of micro-architectural channels, [link](https://github.com/MattPD/cpplinks/blob/master/comparch.micro.channels.md). | 
