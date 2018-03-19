@@ -10,7 +10,7 @@ redirect_from:
 | Computer Architecture | Software optimization resources by Agner [link](http://agner.org/optimize/), [microarchitecture of Intel, AMD and VIA CPUs](http://agner.org/optimize/microarchitecture.pdf). | 
 | Computer Architecture | Lectures by Onur Mutlu on Computer Architecture [Youtube videos](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi9OhoVQBXYFIZywZXCPl4M_). |
 | Micro-architectural channels | Computer architecture - list of micro-architectural channels, [link](https://github.com/MattPD/cpplinks/blob/master/comparch.micro.channels.md). | 
-| Micro-architectural channels | Micro-architectural channels | MeltdownPrime and SpectrePrime: Automatically-Synthesized Attacks Exploiting Invalidation-Based Coherence Protocols, [link](https://arxiv.org/abs/1802.03802).|
+| Micro-architectural channels | MeltdownPrime and SpectrePrime: Automatically-Synthesized Attacks Exploiting Invalidation-Based Coherence Protocols, [link](https://arxiv.org/abs/1802.03802).|
 | Micro-architectural channels | Grand Pwning Unit: Accelerating Microarchitectural Attacks with the GPU (S&P 2018).| 
 | Micro-architectural channels | AMD flaws. [link](https://safefirmware.com/amdflaws_whitepaper.pdf) |
 | Speculative Execution channels | [Reading privileged memory with a side-channel by Project Zero](https://googleprojectzero.blogspot.ca/2018/01/reading-privileged-memory-with-side.html), [Some thoughts on Spectre and Meltdown](http://www.daemonology.net/blog/2018-01-17-some-thoughts-on-spectre-and-meltdown.html), [Meltdown from a CPU architect's view](https://www.realworldtech.com/forum/?threadid=174129&curpostid=174159). |
