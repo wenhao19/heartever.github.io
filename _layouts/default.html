@@ -16,7 +16,7 @@ layout: compress
 
     {% include browser-upgrade.html %}
     {% include masthead.html %}
-    {% include analytics.html %}
+
     {{ content }}
 
     </script>
@@ -29,7 +29,8 @@ layout: compress
     </div>
    
     {% include scripts.html %}
-
+    {% include comment.html %}
+    
     {% if jekyll.environment == 'production' %}
     {% include analytics.html %}
     {% endif %}
