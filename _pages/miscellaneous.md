@@ -4,6 +4,7 @@ permalink: /miscellaneous/
 author_profile: true
 redirect_from: 
   - /miscellaneous.html
+tags: [Wenhao, Wang, miscellaneous, IIE, Institute of Information Engineering, computer architecture, side channel]
 ---
 | Category                 | Items                                                                            |
 |--------------------------|--------------------------------------------------------------------------------- |
