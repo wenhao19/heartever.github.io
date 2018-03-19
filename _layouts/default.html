@@ -21,13 +21,9 @@ layout: compress
 
     </script>
 
-    <div class="page__footer">
-      <footer>
-        {% include footer.html %}
-        {% include analytics-providers/google.html %}
-      </footer>
-    </div>
-   
+    {% include footer.html %}
+    {% include analytics-providers/google.html %}
+       
     {% include scripts.html %}
     
     {% if jekyll.environment == 'production' %}
