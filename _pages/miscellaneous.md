@@ -1,5 +1,5 @@
 ---
-title: "Reading list."
+title: "Reading List"
 permalink: /miscellaneous/
 author_profile: true
 redirect_from: 
