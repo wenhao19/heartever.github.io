@@ -24,4 +24,4 @@ redirect_from:
 | Rowhammer | Codes for Rowhammer attacks. [one-location hammering](https://github.com/IAIK/flipfloyd), [double-sided hammering](https://github.com/IAIK/rowhammerjs/tree/master/native)| 
 | Writing and Reviewing papers | How is a paper evaluated? See [here](https://nebelwelt.net/blog/20180303-PCexperience.html). | 
 | Writing and Reviewing papers | Reviewing System Security Papers. [link](https://www.sigarch.org/reviewing-system-security-papers/)| 
-| News | [Facebooks cambridge analytica scandal](https://arstechnica.com/tech-policy/2018/03/facebooks-cambridge-analytica-scandal-explained/) |
+| News | [Facebooks cambridge analytica scandal](https://arstechnica.com/tech-policy/2018/03/facebooks-cambridge-analytica-scandal-explained/),  [FTC charged Facebook in 2011](https://www.ftc.gov/news-events/press-releases/2011/11/facebook-settles-ftc-charges-it-deceived-consumers-failing-keep) because it "deceived consumers by telling them they could keep their information on Facebook private and then repeatedly allowing it to be shared and made public". |
