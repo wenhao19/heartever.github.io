@@ -24,3 +24,4 @@ redirect_from:
 | Rowhammer | Codes for Rowhammer attacks. [one-location hammering](https://github.com/IAIK/flipfloyd), [double-sided hammering](https://github.com/IAIK/rowhammerjs/tree/master/native)| 
 | Writing and Reviewing papers | How is a paper evaluated? See [here](https://nebelwelt.net/blog/20180303-PCexperience.html). | 
 | Writing and Reviewing papers | Reviewing System Security Papers. [link](https://www.sigarch.org/reviewing-system-security-papers/)| 
+| News | [Facebooks cambridge analytica scandal](https://arstechnica.com/tech-policy/2018/03/facebooks-cambridge-analytica-scandal-explained/) |
