@@ -3,7 +3,7 @@
 <div class="masthead">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
-      <nav id="site-nav" class="hidden-links">
+      <nav id="site-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links pull-right">
           {% for link in site.data.navigation.main %}
@@ -12,10 +12,10 @@
               {% else %}
               {% assign domain = base_path %}
             {% endif %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+            <li class="masthead__menu-item hidden-links"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
           {% endfor %}
         </ul>
-        <li class="masthead__menu-item masthead__menu-item--lg text-muted"><a href="{{ base_path }}/">{{ site.title }}</a></li>
+        <li class="masthead__menu-item masthead__menu-item--lg text-muted hidden-links"><a href="{{ base_path }}/">{{ site.title }}</a></li>
         <ul class="hidden-links hidden"></ul>
       </nav>
     </div>
