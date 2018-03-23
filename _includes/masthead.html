@@ -3,10 +3,10 @@
 <div class="masthead">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
-      <nav id="site-nav">
+      <nav id="site-nav" class="hidden-links hidden">
         <button><div class="navicon"></div></button>
         <ul class="visible-links pull-right">
-           {% for link in site.data.navigation.main %}
+          {% for link in site.data.navigation.main %}
             {% if link.url contains 'http' %}
               {% assign domain = '' %}
               {% else %}
