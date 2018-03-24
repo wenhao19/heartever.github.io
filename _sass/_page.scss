@@ -10,7 +10,7 @@
   padding-right: 0em;
   animation: intro 0.3s both;
   animation-delay: 0.35s;
-  width: 1500px;
+  width: 1000px;
    
   @include breakpoint($x-large) {
     max-width: $x-large;
