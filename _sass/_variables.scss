@@ -109,11 +109,11 @@ $masthead-link-color-hover  : mix(#000, $primary-color, 25%);
    ========================================================================== */
 
 @include breakpoint-set("to ems", true);
-$small                      : 400px !default;
-$medium                     : 500px !default;
-$medium-wide                : 550px !default;
-$large                      : 1200px !default;
-$x-large                    : 1800px !default;
+$small                      : 400px;
+$medium                     : 500px;
+$medium-wide                : 550px;
+$large                      : 1200px;
+$x-large                    : 1800px;
 
 /*
 $small                      : 600px !default;
@@ -132,7 +132,7 @@ $right-sidebar-width-wide   : 0px;
 
 $susy: (
   columns: 12,
-  column-width: 120px,
+  column-width: 150px,
   gutters: 1/4,
   math: fluid,
   output: float,
