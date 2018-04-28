@@ -20,6 +20,7 @@ redirect_from:
 | Speculative Execution channels on SGX | Intel® Software Guard Extensions (SGX) SW Development Guidance for Potential Bounds Check Bypass (CVE-2017-5753) [Side Channel Exploits](https://software.intel.com/sites/default/files/managed/e1/ec/SGX_SDK_Developer_Guidance-CVE-2017-5753.pdf). [SGXPectre](https://github.com/osusecLab/SgxPectre).
 | Intel/AMD technology | Intel SGX Academic Research List, [link](https://software.intel.com/en-us/sgx/academic-research). | 
 | Intel/AMD technology | Intel® Architecture Memory Encryption Technologies Specification [pdf](https://software.intel.com/sites/default/files/managed/a5/16/Multi-Key-Total-Memory-Encryption-Spec.pdf). |
+| Intel/AMD technology | Intel® MPX explained [pdf](https://intel-mpx.github.io/design/). |
 |Useful tools | External flashing of the firmware. [me_cleaner@github](https://github.com/corna/me_cleaner/wiki/External-flashing). | 
 |Useful tools | Cheat sheet for Intel Processor Trace with Linux perf and gdb by Andi Kleen, [link](http://halobates.de/blog/p/410).| 
 |Useful tools | [The Basic Toolbox](https://blog.regehr.org/archives/1578) for a computer science students by Prof. John Regehr. | 
