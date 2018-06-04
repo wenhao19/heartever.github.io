@@ -23,7 +23,7 @@ Working Experience
 
 Publications
 ------
-1. (**IWSEC 2018**) Jingchun Yang, Meicheng Liu, Dongdai Lin and **Wenhao Wang**. _Symbolic-Like Computation and Conditional Differential Cryptanalysis of QUARK_. To appear in Proceeding of The 13th International Workshop on Security. (CCF-C)
+1. (**IWSEC'2018**) Jingchun Yang, Meicheng Liu, Dongdai Lin and **Wenhao Wang**. _Symbolic-Like Computation and Conditional Differential Cryptanalysis of QUARK_. To appear in Proceeding of The 13th International Workshop on Security. (CCF-C)
 1. (**Eurocrypt'2018**) Meicheng Liu, Jingchun Yang, **Wenhao Wang**, Dongdai Lin. _Correlation Cube Attacks: From Weak-Key Distinguisher to Key Recovery_. Proceeding of the 37th Annual International Conference on the Theory and Applications of Cryptographic Techniques. (acceptance rate: 23%, CCF-A, [PDF](https://heartever.github.io/files/correlation.pdf))
 1. (**Oakland'2018**) Guoxing Chen, **Wenhao Wang** (<ins>co-first author, corresponding author</ins>), Tianyu Chen, Sanchuan Chen, Yinqian Zhang, XiaoFeng Wang, Ten-Hwang Lai, Dongdai Lin. _Racing in Hyperspace: Closing Hyper-Threading Side Channels on SGX with Contrived Data Races_. 2018 IEEE Symposium on Security and Privacy (SP). (acceptance rate: ~10%, CCF-A, [PDF](https://heartever.github.io/files/racing.pdf))
 1. (**CCS'2017**) **Wenhao Wang**, Guoxing Chen, Xiaorui Pan, Yinqian Zhang, XiaoFeng Wang, Vincent Bindschaedler, Haixu Tang, Carl A. Gunter. _Leaky Cauldron on the Dark Land: Understanding Memory Side-Channel Hazards in SGX_. ACM Conference on Computer and Communications Security. (acceptance rate: 18%, CCF-A, [PDF](https://heartever.github.io/files/leaky.pdf), [slides](https://heartever.github.io/files/leaky_slides.pdf))
