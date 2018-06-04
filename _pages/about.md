@@ -40,4 +40,4 @@ Useful Links
 * [UCL Crypto Group - Forthcoming calls for papers](https://uclouvain.be/crypto/callforpapers/forthcoming)
 * [System Security Circus](http://s3.eurecom.fr/~balzarot/notes/top4/index.html)
 
-Last updated: 2018/2/15.
+Last updated: 2018/6/1.
