@@ -9,6 +9,7 @@ redirect_from:
 |--------------------------|--------------------------------------------------------------------------------- |
 | Computer Architecture | Software optimization resources by Agner [link](http://agner.org/optimize/), [microarchitecture of Intel, AMD and VIA CPUs](http://agner.org/optimize/microarchitecture.pdf). | 
 | Computer Architecture | Lectures by Onur Mutlu on Computer Architecture [Youtube videos](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi9OhoVQBXYFIZywZXCPl4M_). |
+| Computer Architecture | [Online courses on Computer Architecture by Princeton University](https://www.coursera.org/learn/comparch). |
 | Computer Architecture | CPU and performance optimization by [DENIS BAKHVALOV](https://dendibakh.github.io/notes/). [Understanding CPU port contention](https://dendibakh.github.io/blog/2018/03/21/port-contention). [Store forwarding by example.](https://dendibakh.github.io/blog/2018/03/09/Store-forwarding)
 | Computer Architecture | Branch predictor [part 1](https://xania.org/201602/bpu-part-one), [part 2](https://xania.org/201602/bpu-part-two) and more on [Micro-architectues](https://xania.org/Microarchitecture) or [code optimization](https://xania.org/).
 | Micro-architectural channels | Computer architecture - list of micro-architectural channels, [link](https://github.com/MattPD/cpplinks/blob/master/comparch.micro.channels.md). | 
