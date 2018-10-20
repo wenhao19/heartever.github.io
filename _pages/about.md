@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am a research assistant professor at [Institute of Information Engineering (IIE)](http://www.iie.ac.cn/). My research interests now focus on protecting user privacy data with the help of hardware features, such as [Intel SGX](https://software.intel.com/en-us/sgx), as well as cryptographic techniques (e.g., homomorphic encryption). Ongoing projects also include designing new hardware based TEEs (trusted execution envirionments) to support large scale data processing.
 
 
 **Papers published at top-tier security & crypto conferences: CCS'17, S&P'18, Eurocrypt'18.**
