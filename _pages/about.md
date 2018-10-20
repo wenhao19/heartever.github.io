@@ -9,6 +9,7 @@ redirect_from:
 ---
 I am a research assistant professor at [Institute of Information Engineering (IIE)](http://www.iie.ac.cn/). My research interests now focus on protecting user privacy data with the help of hardware features, such as [Intel SGX](https://software.intel.com/en-us/sgx), as well as cryptographic techniques (e.g., homomorphic encryption). Ongoing projects also include designing new hardware based TEEs (trusted execution envirionments) to support large scale data processing.
 
+I have been visiting [Prof. XiaoFeng Wang](https://www.informatics.indiana.edu/xw7/)'s group in [Indiana University Bloomington](https://www.indiana.edu/) from April 2016 to August 2018, during which I worked closely with Prof. Wang and [Prof. Haixu Tang](https://www.informatics.indiana.edu/hatang/) in organizing the [Genomic data privacy and security protection competition](http://www.humangenomeprivacy.org/2017/). Please find my cv [here](https://heartever.github.io/files/cv.pdf). 
 
 **Papers published at top-tier security & crypto conferences: CCS'17, S&P'18, Eurocrypt'18.**
 
