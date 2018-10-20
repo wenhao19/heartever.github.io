@@ -20,14 +20,14 @@ Education
 
 Working Experience
 ------
-* **Visiting Researcher**, <ins>Indiana University Bloomington</ins>, since Apr. 2016
+* **Visiting Researcher**, <ins>Indiana University Bloomington</ins>, Apr. 2016 – Aug. 2018
 * **Research Assistant Professor**, <ins>Institute of Information Engineering, CAS</ins>, since Feb. 2015
 * **Research Assistant**, <ins>Institute of Information Engineering, CAS</ins>, May 2012 – Jan. 2015
 * **Research Assistant**, <ins>Institute of Software, CAS</ins>, Sept. 2009 – Apr. 2012
 
 Publications
 ------
-1. (**ACSAC'2018**) Zhe Zhou, Di Tang, **Wenhao Wang**, XiaoFeng Wang, Zhou Li, Kehuan Zhang. _Beware of Your Screen: Anonymous Fingerprinting of Device Screens for Off-line Payment Protection_. To appear in the proceeding of Annual Computer Security Applications Conference (ACSAC) 2018. (CCF-B) 
+1. (**ACSAC'2018**) Zhe Zhou, Di Tang, **Wenhao Wang**, XiaoFeng Wang, Zhou Li, Kehuan Zhang. _Beware of Your Screen: Anonymous Fingerprinting of Device Screens for Off-line Payment Protection_. Proceeding of Annual Computer Security Applications Conference (ACSAC) 2018. (CCF-B) 
 1. (**IWSEC'2018**) Jingchun Yang, Meicheng Liu, Dongdai Lin and **Wenhao Wang**. _Symbolic-Like Computation and Conditional Differential Cryptanalysis of QUARK_. Proceeding of the 13th International Workshop on Security. (CCF-C)
 1. (**Eurocrypt'2018**) Meicheng Liu, Jingchun Yang, **Wenhao Wang**, Dongdai Lin. _Correlation Cube Attacks: From Weak-Key Distinguisher to Key Recovery_. Proceeding of the 37th Annual International Conference on the Theory and Applications of Cryptographic Techniques. (acceptance rate: 23%, CCF-A, [PDF](https://heartever.github.io/files/correlation.pdf))
 1. (**Oakland'2018**) Guoxing Chen, **Wenhao Wang** (<ins>co-first author, corresponding author</ins>), Tianyu Chen, Sanchuan Chen, Yinqian Zhang, XiaoFeng Wang, Ten-Hwang Lai, Dongdai Lin. _Racing in Hyperspace: Closing Hyper-Threading Side Channels on SGX with Contrived Data Races_. 2018 IEEE Symposium on Security and Privacy (S&P). (acceptance rate: ~10%, CCF-A, [PDF](https://heartever.github.io/files/racing.pdf))
