@@ -35,7 +35,7 @@
 
 .masthead__menu {
   width: 1000px;
-  padding-left: 4em
+//  padding-left: 1em
   ul {
     margin: 0;
     padding: 0;
@@ -45,13 +45,13 @@
 }
 
 .masthead__menu-item {
-  padding-left: 4em;
+//  padding-left: 1em;
   display: block;
   list-style-type: none;
   white-space: nowrap;
 
   &--lg {
-    padding-right: 1em;
+//    padding-right: 1em;
     font-weight: 700;
   }
 }
