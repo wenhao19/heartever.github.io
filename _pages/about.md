@@ -38,6 +38,12 @@ Publications
 1. **Wenhao Wang**, Dongdai Lin. _Analysis of Multiple Checkpoints in Non-perfect and Perfect Rainbow Tradeoff Revisited_. In Proceeding of the 15th International Conference on Information and Communications Security (ICICS'13). (acceptance rate: 20%, CCF-C)
 1. **Wenhao Wang**, Dongdai Lin, Zhenqi Li, Tianze Wang. _Improvement and Analysis of VDP Method in Time/Memory Tradeoff Applications_. In Proceeding of the 13th International Conference on Information and Communications Security (ICICS'11). (acceptance rate: 23%, CCF-C)
 
+Professional Services
+-----
+* Reviewer for journals CyberSecurity, SCN, JNCA.
+* Sub-reviewer for CCS, NDSS, S&P, Usenix Security, HPCA, ESORICS and RECOMB etc.
+* PC member for ACM CCS 2019.
+
 Useful Links
 ------
 * [Top Cyber Security Conferences Ranking](http://jianying.space/conference-ranking.html)
