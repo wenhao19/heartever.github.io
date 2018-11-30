@@ -41,7 +41,7 @@ Publications
 Professional Services
 -----
 * Reviewer for journals CyberSecurity, SCN, JNCA.
-* Sub-reviewer for CCS, NDSS, S&P, Usenix Security, HPCA, ESORICS and RECOMB etc.
+* Sub-reviewer for CCS, NDSS, S&P, Usenix Security, HPCA, ESORICS, AsiaCCS and RECOMB etc.
 * PC member for ACM CCS 2019.
 
 Useful Links
