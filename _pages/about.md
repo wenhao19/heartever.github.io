@@ -46,7 +46,7 @@ Professional Services
 
 Awards
 -----
-* 2018 ACM SIGSAC China Rising Star Award and ACM China Rising Star Nomination Award
+* 2018 ACM SIGSAC China Rising Star Award, and ACM China Rising Star Nomination Award
 * 2017 Young Star Award of Institute of Information Engineering, CAS
 
 Useful Links
