@@ -42,7 +42,12 @@ Professional Services
 -----
 * Reviewer for journals CyberSecurity, SCN, JNCA.
 * Sub-reviewer for CCS, NDSS, S&P, Usenix Security, HPCA, ESORICS, AsiaCCS and RECOMB etc.
-* PC member for ACM CCS 2019.
+* TPC member for ACM CCS 2019.
+
+Awards
+-----
+* 2018 ACM SIGSAC China Rising Star Award and ACM China Rising Star Nomination Award
+* 2017 Young Star Award of Institute of Information Engineering, CAS
 
 Useful Links
 ------
