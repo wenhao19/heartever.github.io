@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a research assistant professor at [Institute of Information Engineering (IIE)](http://www.iie.ac.cn/). My research interests now focus on protecting user privacy data with the help of hardware features, such as [Intel SGX](https://software.intel.com/en-us/sgx), as well as cryptographic techniques (e.g., homomorphic encryption). Ongoing projects also include designing new hardware based TEEs (trusted execution envirionments) to support large scale data processing.
+I am a research associate professor at [Institute of Information Engineering (IIE)](http://www.iie.ac.cn/). My research interests now focus on protecting user privacy data with the help of hardware features, such as [Intel SGX](https://software.intel.com/en-us/sgx), as well as cryptographic techniques (e.g., homomorphic encryption). Ongoing projects also include designing new hardware based TEEs (trusted execution envirionments) to support large scale data processing.
 
 I have been visiting [Prof. XiaoFeng Wang](https://www.informatics.indiana.edu/xw7/)'s group in [Indiana University Bloomington](https://www.indiana.edu/) from April 2016 to August 2018, during which I worked closely with Prof. Wang and [Prof. Haixu Tang](https://www.informatics.indiana.edu/hatang/) in organizing the [Genomic data privacy and security protection competition](http://www.humangenomeprivacy.org/2017/). Please find my cv [here](https://heartever.github.io/files/cv.pdf). 
 
@@ -20,8 +20,9 @@ Education
 
 Working Experience
 ------
+* **Research Associate Professor**, <ins>Institute of Information Engineering, CAS</ins>, Since Dec. 2018
 * **Visiting Researcher**, <ins>Indiana University Bloomington</ins>, Apr. 2016 – Aug. 2018
-* **Research Assistant Professor**, <ins>Institute of Information Engineering, CAS</ins>, since Feb. 2015
+* **Research Assistant Professor**, <ins>Institute of Information Engineering, CAS</ins>, Feb. 2015 - Dec. 2018
 * **Research Assistant**, <ins>Institute of Information Engineering, CAS</ins>, May 2012 – Jan. 2015
 * **Research Assistant**, <ins>Institute of Software, CAS</ins>, Sept. 2009 – Apr. 2012
 
