@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Wenhao Wang"
-description              : &description "Research Assistant Professor at Institute of Information Engineering (IIE)"
+description              : &description "Research Associate Professor at Institute of Information Engineering (IIE)"
 url                      : https://heartever.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "heartever/heartever.github.io"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Wenhao Wang"
   avatar           : "profile.jpg"
-  bio              : "Research Assistant Professor at Institute of Information Engineering (IIE)"
+  bio              : "Research Associate Professor at Institute of Information Engineering (IIE)"
   location         : "Beijing"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=9WkYf5wAAAAJ&hl=en"
