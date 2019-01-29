@@ -28,16 +28,36 @@ Working Experience
 
 Publications
 ------
-1. (**ACSAC'2018**) Zhe Zhou, Di Tang, **Wenhao Wang**, XiaoFeng Wang, Zhou Li, Kehuan Zhang. _Beware of Your Screen: Anonymous Fingerprinting of Device Screens for Off-line Payment Protection_. Proceeding of Annual Computer Security Applications Conference (ACSAC) 2018. (CCF-B, [PDF](https://heartever.github.io/files/acsac2018-beware.pdf)) 
-1. (**IWSEC'2018**) Jingchun Yang, Meicheng Liu, Dongdai Lin and **Wenhao Wang**. _Symbolic-Like Computation and Conditional Differential Cryptanalysis of QUARK_. Proceeding of the 13th International Workshop on Security. (CCF-C)
-1. (**Eurocrypt'2018**) Meicheng Liu, Jingchun Yang, **Wenhao Wang**, Dongdai Lin. _Correlation Cube Attacks: From Weak-Key Distinguisher to Key Recovery_. Proceeding of the 37th Annual International Conference on the Theory and Applications of Cryptographic Techniques. (acceptance rate: 23%, CCF-A, [PDF](https://heartever.github.io/files/correlation.pdf))
-1. (**Oakland'2018**) Guoxing Chen, **Wenhao Wang** (<ins>co-first author, corresponding author</ins>), Tianyu Chen, Sanchuan Chen, Yinqian Zhang, XiaoFeng Wang, Ten-Hwang Lai, Dongdai Lin. _Racing in Hyperspace: Closing Hyper-Threading Side Channels on SGX with Contrived Data Races_. 2018 IEEE Symposium on Security and Privacy (S&P). (acceptance rate: ~10%, CCF-A, [PDF](https://heartever.github.io/files/racing.pdf))
-1. (**CCS'2017**) **Wenhao Wang**, Guoxing Chen, Xiaorui Pan, Yinqian Zhang, XiaoFeng Wang, Vincent Bindschaedler, Haixu Tang, Carl A. Gunter. _Leaky Cauldron on the Dark Land: Understanding Memory Side-Channel Hazards in SGX_. ACM Conference on Computer and Communications Security. (acceptance rate: 18%, CCF-A, [PDF](https://heartever.github.io/files/leaky.pdf), [slides](https://heartever.github.io/files/leaky_slides.pdf))
-1. (**FEAST'2017**) Shuai Wang, **Wenhao Wang**, Qinkun Bao, Pei Wang, XiaoFeng Wang, and Dinghao Wu. _Binary Code Retrofitting and Hardening Using SGX_.  In the 2nd Workshop on Forming an Ecosystem Around Software Transformation, 2017, co-located with CCS 2017. ([PDF](https://heartever.github.io/files/bsgx-feast17.pdf), [slides](https://heartever.github.io/files/p43-wangA-slides.pdf))
-1. (**ISIT'2015**) Meicheng Liu, Dongdai Lin, **Wenhao Wang**. _Searching Cubes for Testing Boolean Functions and Its Application to Trivium_. In Proceeding of 2015 IEEE International Symposium on Information Theory. (IIE-B, [PDF](https://heartever.github.io/files/searching.pdf))
-1. **Wenhao Wang**, Meicheng Liu, Yin Zhang. _Comments on “A design of Boolean functions resistant to (fast) algebraic cryptanalysis with efficient implementation”_. Cryptography and Communications.
-1. **Wenhao Wang**, Dongdai Lin. _Analysis of Multiple Checkpoints in Non-perfect and Perfect Rainbow Tradeoff Revisited_. In Proceeding of the 15th International Conference on Information and Communications Security (ICICS'13). (acceptance rate: 20%, CCF-C)
-1. **Wenhao Wang**, Dongdai Lin, Zhenqi Li, Tianze Wang. _Improvement and Analysis of VDP Method in Time/Memory Tradeoff Applications_. In Proceeding of the 13th International Conference on Information and Communications Security (ICICS'11). (acceptance rate: 23%, CCF-C)
+1. Beware of Your Screen: Anonymous Fingerprinting of Device Screens for Off-line Payment Protection [[PDF](https://heartever.github.io/files/acsac2018-beware.pdf)]  
+Zhe Zhou, Di Tang, **Wenhao Wang**, XiaoFeng Wang, Zhou Li, Kehuan Zhang  
+Annual Computer Security Applications Conference (**ACSAC'2018**) (CCF-B) 
+1. Symbolic-Like Computation and Conditional Differential Cryptanalysis of QUARK  
+Jingchun Yang, Meicheng Liu, Dongdai Lin and **Wenhao Wang**  
+13th International Workshop on Security (**IWSEC'2018**) (CCF-C)
+1. Correlation Cube Attacks: From Weak-Key Distinguisher to Key Recovery [[PDF](https://heartever.github.io/files/correlation.pdf)]  
+Meicheng Liu, Jingchun Yang, **Wenhao Wang**, Dongdai Lin    
+37th Annual International Conference on the Theory and Applications of Cryptographic Techniques (**Eurocrypt'2018**) (acceptance rate: 23%, CCF-A)
+1. Racing in Hyperspace: Closing Hyper-Threading Side Channels on SGX with Contrived Data Races [[PDF](https://heartever.github.io/files/racing.pdf)]  
+[Guoxing Chen, **Wenhao Wang**], Tianyu Chen, Sanchuan Chen, Yinqian Zhang, XiaoFeng Wang, Ten-Hwang Lai, Dongdai Lin  
+2018 IEEE Symposium on Security and Privacy (**S&P**) (acceptance rate: ~10%, CCF-A), <ins>Co-first author, corresponding author</ins>
+1. Leaky Cauldron on the Dark Land: Understanding Memory Side-Channel Hazards in SGX [[PDF](https://heartever.github.io/files/leaky.pdf)] [[slides](https://heartever.github.io/files/leaky_slides.pdf)]  
+**Wenhao Wang**, Guoxing Chen, Xiaorui Pan, Yinqian Zhang, XiaoFeng Wang, Vincent Bindschaedler, Haixu Tang, Carl A. Gunter  
+**ACM CCS 2017** (acceptance rate: 18%, CCF-A), <ins>First author</ins>  
+1. Binary Code Retrofitting and Hardening Using SGX [[PDF](https://heartever.github.io/files/bsgx-feast17.pdf)] [[slides](https://heartever.github.io/files/p43-wangA-slides.pdf)]  
+Shuai Wang, **Wenhao Wang**, Qinkun Bao, Pei Wang, XiaoFeng Wang, and Dinghao Wu  
+2nd Workshop on Forming an Ecosystem Around Software Transformation, 2017, co-located with CCS 2017.
+1. Searching Cubes for Testing Boolean Functions and Its Application to Trivium [[PDF](https://heartever.github.io/files/searching.pdf)]  
+Meicheng Liu, Dongdai Lin, **Wenhao Wang**  
+2015 IEEE International Symposium on Information Theory. (IIE-B)
+1. Comments on “A design of Boolean functions resistant to (fast) algebraic cryptanalysis with efficient implementation”  
+**Wenhao Wang**, Meicheng Liu, Yin Zhang  
+Cryptography and Communications, <ins>First author</ins>
+1. Analysis of Multiple Checkpoints in Non-perfect and Perfect Rainbow Tradeoff Revisited  
+**Wenhao Wang**, Dongdai Lin  
+ICICS'13 (acceptance rate: 20%, CCF-C), <ins>First author</ins>
+1. Improvement and Analysis of VDP Method in Time/Memory Tradeoff Applications  
+**Wenhao Wang**, Dongdai Lin, Zhenqi Li, Tianze Wang  
+ICICS'11 (acceptance rate: 23%, CCF-C), <ins>First author</ins>
 
 Professional Services
 -----
