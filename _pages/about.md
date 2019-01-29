@@ -40,11 +40,11 @@ Meicheng Liu, Jingchun Yang, **Wenhao Wang**, Dongdai Lin
 1. Racing in Hyperspace: Closing Hyper-Threading Side Channels on SGX with Contrived Data Races [[PDF](https://heartever.github.io/files/racing.pdf)]  
 [Guoxing Chen, **Wenhao Wang**], Tianyu Chen, Sanchuan Chen, Yinqian Zhang, XiaoFeng Wang, Ten-Hwang Lai, Dongdai Lin  
 2018 IEEE Symposium on Security and Privacy (**S&P**) (acceptance rate: ~10%, CCF-A)  
-<font color=blue size=12>Co-first author, corresponding author</font>
+Co-first author, corresponding author
 1. Leaky Cauldron on the Dark Land: Understanding Memory Side-Channel Hazards in SGX [[PDF](https://heartever.github.io/files/leaky.pdf)] [[slides](https://heartever.github.io/files/leaky_slides.pdf)]  
 **Wenhao Wang**, Guoxing Chen, Xiaorui Pan, Yinqian Zhang, XiaoFeng Wang, Vincent Bindschaedler, Haixu Tang, Carl A. Gunter  
 **ACM CCS 2017** (acceptance rate: 18%, CCF-A)  
-<font color=blue size=12>First author</font>
+First author
 1. Binary Code Retrofitting and Hardening Using SGX [[PDF](https://heartever.github.io/files/bsgx-feast17.pdf)] [[slides](https://heartever.github.io/files/p43-wangA-slides.pdf)]  
 Shuai Wang, **Wenhao Wang**, Qinkun Bao, Pei Wang, XiaoFeng Wang, and Dinghao Wu  
 2nd Workshop on Forming an Ecosystem Around Software Transformation, 2017, co-located with CCS 2017.
@@ -54,15 +54,15 @@ Meicheng Liu, Dongdai Lin, **Wenhao Wang**
 1. Comments on “A design of Boolean functions resistant to (fast) algebraic cryptanalysis with efficient implementation”  
 **Wenhao Wang**, Meicheng Liu, Yin Zhang  
 Cryptography and Communications  
-<font color=blue size=12>First author</font>
+First author
 1. Analysis of Multiple Checkpoints in Non-perfect and Perfect Rainbow Tradeoff Revisited  
 **Wenhao Wang**, Dongdai Lin  
 ICICS'13 (acceptance rate: 20%, CCF-C)  
-<font color=blue size=12>First author</font>
+First author
 1. Improvement and Analysis of VDP Method in Time/Memory Tradeoff Applications  
 **Wenhao Wang**, Dongdai Lin, Zhenqi Li, Tianze Wang  
 ICICS'11 (acceptance rate: 23%, CCF-C)  
-<font color=blue size=12>First author</font>
+First author
 
 Professional Services
 -----
