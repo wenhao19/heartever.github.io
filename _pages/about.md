@@ -28,34 +28,34 @@ Working Experience
 
 Publications
 ------
-1. Beware of Your Screen: Anonymous Fingerprinting of Device Screens for Off-line Payment Protection [[PDF](https://heartever.github.io/files/acsac2018-beware.pdf)]  
+1. **Beware of Your Screen: Anonymous Fingerprinting of Device Screens for Off-line Payment Protection** [[PDF](https://heartever.github.io/files/acsac2018-beware.pdf)]  
 Zhe Zhou, Di Tang, **Wenhao Wang**, XiaoFeng Wang, Zhou Li, Kehuan Zhang  
 Annual Computer Security Applications Conference (**ACSAC'2018**) (CCF-B) 
-1. Symbolic-Like Computation and Conditional Differential Cryptanalysis of QUARK  
+1. **Symbolic-Like Computation and Conditional Differential Cryptanalysis of QUARK**  
 Jingchun Yang, Meicheng Liu, Dongdai Lin and **Wenhao Wang**  
 13th International Workshop on Security (**IWSEC'2018**) (CCF-C)
-1. Correlation Cube Attacks: From Weak-Key Distinguisher to Key Recovery [[PDF](https://heartever.github.io/files/correlation.pdf)]  
+1. **Correlation Cube Attacks: From Weak-Key Distinguisher to Key Recovery** [[PDF](https://heartever.github.io/files/correlation.pdf)]  
 Meicheng Liu, Jingchun Yang, **Wenhao Wang**, Dongdai Lin    
 37th Annual International Conference on the Theory and Applications of Cryptographic Techniques (**Eurocrypt'2018**) (acceptance rate: 23%, CCF-A)
-1. Racing in Hyperspace: Closing Hyper-Threading Side Channels on SGX with Contrived Data Races [[PDF](https://heartever.github.io/files/racing.pdf)]  
+1. **Racing in Hyperspace: Closing Hyper-Threading Side Channels on SGX with Contrived Data Races** [[PDF](https://heartever.github.io/files/racing.pdf)]  
 [Guoxing Chen, **Wenhao Wang**], Tianyu Chen, Sanchuan Chen, Yinqian Zhang, XiaoFeng Wang, Ten-Hwang Lai, Dongdai Lin. (<ins>Co-first Author & Corresponding Author</ins>)  
 2018 IEEE Symposium on Security and Privacy (**S&P**) (acceptance rate: ~10%, CCF-A)
-1. Leaky Cauldron on the Dark Land: Understanding Memory Side-Channel Hazards in SGX [[PDF](https://heartever.github.io/files/leaky.pdf)] [[slides](https://heartever.github.io/files/leaky_slides.pdf)]  
+1. **Leaky Cauldron on the Dark Land: Understanding Memory Side-Channel Hazards in SGX** [[PDF](https://heartever.github.io/files/leaky.pdf)] [[slides](https://heartever.github.io/files/leaky_slides.pdf)]  
 **Wenhao Wang**, Guoxing Chen, Xiaorui Pan, Yinqian Zhang, XiaoFeng Wang, Vincent Bindschaedler, Haixu Tang, Carl A. Gunter. (<ins>First Author</ins>)  
 **ACM CCS 2017** (acceptance rate: 18%, CCF-A)  
-1. Binary Code Retrofitting and Hardening Using SGX [[PDF](https://heartever.github.io/files/bsgx-feast17.pdf)] [[slides](https://heartever.github.io/files/p43-wangA-slides.pdf)]  
+1. **Binary Code Retrofitting and Hardening Using SGX** [[PDF](https://heartever.github.io/files/bsgx-feast17.pdf)] [[slides](https://heartever.github.io/files/p43-wangA-slides.pdf)]  
 Shuai Wang, **Wenhao Wang**, Qinkun Bao, Pei Wang, XiaoFeng Wang, and Dinghao Wu  
 2nd Workshop on Forming an Ecosystem Around Software Transformation, 2017, co-located with CCS 2017.
-1. Searching Cubes for Testing Boolean Functions and Its Application to Trivium [[PDF](https://heartever.github.io/files/searching.pdf)]  
+1. **Searching Cubes for Testing Boolean Functions and Its Application to Trivium** [[PDF](https://heartever.github.io/files/searching.pdf)]  
 Meicheng Liu, Dongdai Lin, **Wenhao Wang**  
 2015 IEEE International Symposium on Information Theory. (IIE-B)
-1. Comments on “A design of Boolean functions resistant to (fast) algebraic cryptanalysis with efficient implementation”. (<ins>First Author</ins>)  
-**Wenhao Wang**, Meicheng Liu, Yin Zhang  
+1. **Comments on “A design of Boolean functions resistant to (fast) algebraic cryptanalysis with efficient implementation”**  
+**Wenhao Wang**, Meicheng Liu, Yin Zhang. (<ins>First Author</ins>)  
 Cryptography and Communications  
-1. Analysis of Multiple Checkpoints in Non-perfect and Perfect Rainbow Tradeoff Revisited  
+1. **Analysis of Multiple Checkpoints in Non-perfect and Perfect Rainbow Tradeoff Revisited**  
 **Wenhao Wang**, Dongdai Lin. (<ins>First Author</ins>)  
 ICICS'13 (acceptance rate: 20%, CCF-C)  
-1. Improvement and Analysis of VDP Method in Time/Memory Tradeoff Applications  
+1. **Improvement and Analysis of VDP Method in Time/Memory Tradeoff Applications**  
 **Wenhao Wang**, Dongdai Lin, Zhenqi Li, Tianze Wang. (<ins>First Author</ins>)  
 ICICS'11 (acceptance rate: 23%, CCF-C)  
 
