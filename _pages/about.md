@@ -62,7 +62,7 @@ ICICS'11 (acceptance rate: 23%, CCF-C)
 Professional Services
 -----
 * Reviewer for journals CyberSecurity, SCN, JNCA.
-* Sub-reviewer for CCS, NDSS, S&P, Usenix Security, HPCA, ESORICS, AsiaCCS and RECOMB etc.
+* Sub-reviewer for CCS (2018), NDSS (2018), S&P (2018), Usenix Security (2018), HPCA (2019), ESORICS (2018), AsiaCCS (2017, 2018) and RECOMB (2019) etc.
 * TPC member for ACM CCS 2019.
 
 Awards
