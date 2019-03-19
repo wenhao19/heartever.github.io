@@ -41,7 +41,7 @@ Meicheng Liu, Jingchun Yang, **Wenhao Wang**, Dongdai Lin
 [Guoxing Chen, **Wenhao Wang**], Tianyu Chen, Sanchuan Chen, Yinqian Zhang, XiaoFeng Wang, Ten-Hwang Lai, Dongdai Lin. (<ins>Co-first Author & Corresponding Author</ins>)  
 2018 IEEE Symposium on Security and Privacy (**S&P**) (acceptance rate: ~10%, CCF-A)
 1. **iDASH secure genome analysis competition 2017** [[PDF](https://heartever.github.io/files/Wang2018_Article_IDASHSecureGenomeAnalysisCompe.pdf)]  
-XiaoFeng Wang, Haixu Tang, Shuang Wang, Xiaoqian Jiang, Wenhao Wang, Diyue Bu, Lei Wang, Yicheng Jiang, Chenghong Wang  
+XiaoFeng Wang, Haixu Tang, Shuang Wang, Xiaoqian Jiang, **Wenhao Wang**, Diyue Bu, Lei Wang, Yicheng Jiang, Chenghong Wang  
 **BMC Medical Genomics 2018**  
 1. **Leaky Cauldron on the Dark Land: Understanding Memory Side-Channel Hazards in SGX** [[PDF](https://heartever.github.io/files/leaky.pdf)] [[slides](https://heartever.github.io/files/leaky_slides.pdf)]  
 **Wenhao Wang**, Guoxing Chen, Xiaorui Pan, Yinqian Zhang, XiaoFeng Wang, Vincent Bindschaedler, Haixu Tang, Carl A. Gunter. (<ins>First Author</ins>)  
