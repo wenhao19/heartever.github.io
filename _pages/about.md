@@ -77,6 +77,7 @@ Useful Links
 ------
 * [Top Cyber Security Conferences Ranking](http://jianying.space/conference-ranking.html)
 * [IACR Calendar of Events in Cryptology](https://www.iacr.org/events/)
+* Influential [Security](https://www.sec.cs.tu-bs.de/~konrieck/topnotch/sec_papers.html) Papers and Influential [Crypto](https://www.sec.cs.tu-bs.de/~konrieck/topnotch/crypto_papers.html) Papers
 * [UCL Crypto Group - Forthcoming calls for papers](https://uclouvain.be/crypto/callforpapers/forthcoming)
 * [System Security Circus](http://s3.eurecom.fr/~balzarot/notes/top4_2018/)
 * [Security and Privacy Conference Deadlines](https://sec-deadlines.github.io/)
