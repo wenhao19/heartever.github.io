@@ -43,7 +43,7 @@ Meicheng Liu, Jingchun Yang, **Wenhao Wang**, Dongdai Lin
 1. [**iDASH secure genome analysis competition 2017**](https://heartever.github.io/files/Wang2018_Article_IDASHSecureGenomeAnalysisCompe.pdf)  
 XiaoFeng Wang, Haixu Tang, Shuang Wang, Xiaoqian Jiang, **Wenhao Wang**, Diyue Bu, Lei Wang, Yicheng Jiang, Chenghong Wang  
 **BMC Medical Genomics 2018**  
-1. [**Leaky Cauldron on the Dark Land: Understanding Memory Side-Channel Hazards in SGX**]https://heartever.github.io/files/leaky.pdf) [[slides](https://heartever.github.io/files/leaky_slides.pdf)]  
+1. [**Leaky Cauldron on the Dark Land: Understanding Memory Side-Channel Hazards in SGX**](https://heartever.github.io/files/leaky.pdf) [[slides](https://heartever.github.io/files/leaky_slides.pdf)]  
 **Wenhao Wang**, Guoxing Chen, Xiaorui Pan, Yinqian Zhang, XiaoFeng Wang, Vincent Bindschaedler, Haixu Tang, Carl A. Gunter. (<ins>First Author</ins>)  
 **ACM CCS 2017** (acceptance rate: 18%, CCF-A)  
 1. [**Binary Code Retrofitting and Hardening Using SGX**](https://heartever.github.io/files/bsgx-feast17.pdf) [[slides](https://heartever.github.io/files/p43-wangA-slides.pdf)]  
