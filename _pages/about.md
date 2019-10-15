@@ -85,4 +85,4 @@ Useful Links
 * [System Security Circus](http://s3.eurecom.fr/~balzarot/notes/top4_2018/)
 * [Security and Privacy Conference Deadlines](https://sec-deadlines.github.io/)
 
-Last updated: 2019/01/15.
+Last updated: 2019/10/15.
