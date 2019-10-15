@@ -28,7 +28,7 @@ Working Experience
 
 Publications
 ------
-1. [Bluethunder: A 2-level Directional Predictor Based Side-Channel Attack against SGX](https://heartever.github.io/files/bluethunder_sgx_ches.pdf)  
+1. [**Bluethunder: A 2-level Directional Predictor Based Side-Channel Attack against SGX**](https://heartever.github.io/files/bluethunder_sgx_ches.pdf)  
 Tianlin Huo, Xiaoni Meng, **Wenhao Wang**, Chunliang Hao, Pei Zhao, Jian Zhai, Mingshu Li (<ins>Corresponding Author</ins>)   
 IACR Transactions on Cryptographic Hardware and Embedded Systems (**CHES'2020**) (CCF-B)  
 1. [**Beware of Your Screen: Anonymous Fingerprinting of Device Screens for Off-line Payment Protection**](https://heartever.github.io/files/acsac2018-beware.pdf)  
