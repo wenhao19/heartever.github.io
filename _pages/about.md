@@ -78,8 +78,8 @@ Awards
 
 Talks
 -----
-* Confidential Computing, Oct. 2019, Guilin, [Confidential Computing](https://heartever.github.io/files/ConfidentialComputing-Guilin.pdf)  
-* Confidential Computing, July 2019, Tianjin, [Confidential Computing](https://heartever.github.io/files/ConfidentialComputing-tianjin.pdf)  
+* Confidential Computing, Oct. 2019, Guilin, [Confidential Computing, in Chinese](https://heartever.github.io/files/ConfidentialComputing-Guilin.pdf)  
+* Confidential Computing, July 2019, Tianjin, [Confidential Computing, in Chinese](https://heartever.github.io/files/ConfidentialComputing-tianjin.pdf)  
 * Institute of Software, July 2019, Beijing  
 * ACM TURC 2019 (SIGSAC), May 2019, Chengdu, [Side Channel Risks in Hardware Trusted Execution Environments (TEEs)](https://heartever.github.io/files/SideChannelRisks.pdf)  
 
