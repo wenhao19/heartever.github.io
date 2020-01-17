@@ -11,7 +11,7 @@ I am a research associate professor at [Institute of Information Engineering (II
 
 I have been visiting [Prof. XiaoFeng Wang](https://www.informatics.indiana.edu/xw7/)'s group in [Indiana University Bloomington](https://www.indiana.edu/) from April 2016 to August 2018, during which I worked closely with Prof. Wang and [Prof. Haixu Tang](https://www.informatics.indiana.edu/hatang/) in organizing the [Genomic data privacy and security protection competition](http://www.humangenomeprivacy.org/2017/). Please find my cv [here](https://heartever.github.io/files/cv.pdf). 
 
-**Papers published at top-tier security & crypto conferences: CCS'17, S&P'18, Eurocrypt'18.**
+**Papers published at top-tier security & crypto conferences: CCS'17, S&P'18, Eurocrypt'18, S&P'20.**
 
 Education
 ------
@@ -28,6 +28,9 @@ Working Experience
 
 Publications
 ------
+1. [**Enabling Rack-scale Confidential Computing using Heterogeneous Trusted Execution Environment**](https://heartever.github.io/files/hetee.pdf)  
+Jianping Zhu, Rui Hou, XiaoFeng Wang, **Wenhao Wang**, Jiangfeng Cao, Boyan Zhao, Zhongpu Wang, Yuhui Zhang, Jiameng Ying, Lixin Zhang and Dan Meng  
+2020 IEEE Symposium on Security and Privacy (**S&P**) (to appear, CCF-A)
 1. [**Bluethunder: A 2-level Directional Predictor Based Side-Channel Attack against SGX**](https://heartever.github.io/files/bluethunder_sgx_ches.pdf)  
 Tianlin Huo, Xiaoni Meng, **Wenhao Wang**, Chunliang Hao, Pei Zhao, Jian Zhai, Mingshu Li (<ins>Corresponding Author</ins>)   
 IACR Transactions on Cryptographic Hardware and Embedded Systems (**CHES'2020**) (CCF-B)  
@@ -65,6 +68,11 @@ ICICS'13 (acceptance rate: 20%, CCF-C)
 **Wenhao Wang**, Dongdai Lin, Zhenqi Li, Tianze Wang. (<ins>First Author</ins>)  
 ICICS'11 (acceptance rate: 23%, CCF-C)  
 
+Manuscript(s)
+------
+1. [**Toward Scalable Fully Homomorphic Encryption Through Light Trusted Computing Assistance**](https://heartever.github.io/files/fhetee.pdf)  
+**Wenhao Wang**, Yichen Jiang, Qintao Shen, Weihao Huang, Hao Chen, Shuang Wang, XiaoFeng Wang, Haixu Tang, Kai Chen and Kristin Lauter and Dongdai Lin   
+
 Professional Services
 -----
 * Reviewer for journals *CyberSecurity*, *SCN*, *JNCA*.
@@ -92,4 +100,4 @@ Useful Links
 * [System Security Circus](http://s3.eurecom.fr/~balzarot/notes/top4_2018/)
 * [Security and Privacy Conference Deadlines](https://sec-deadlines.github.io/)
 
-Last updated: 2019/10/15.
+Last updated: 2020/01/15.
