@@ -30,7 +30,7 @@ Publications
 ------
 1. [**Enabling Rack-scale Confidential Computing using Heterogeneous Trusted Execution Environment**](https://heartever.github.io/files/hetee.pdf)  
 Jianping Zhu, Rui Hou, XiaoFeng Wang, **Wenhao Wang**, Jiangfeng Cao, Boyan Zhao, Zhongpu Wang, Yuhui Zhang, Jiameng Ying, Lixin Zhang and Dan Meng  
-2020 IEEE Symposium on Security and Privacy (**S&P**) (to appear, CCF-A)
+2020 IEEE Symposium on Security and Privacy (**S&P**) (CCF-A)
 1. [**Bluethunder: A 2-level Directional Predictor Based Side-Channel Attack against SGX**](https://heartever.github.io/files/bluethunder_sgx_ches.pdf)  
 Tianlin Huo, Xiaoni Meng, **Wenhao Wang**, Chunliang Hao, Pei Zhao, Jian Zhai, Mingshu Li (<ins>Corresponding Author</ins>)   
 IACR Transactions on Cryptographic Hardware and Embedded Systems (**CHES'2020**) (CCF-B)  
@@ -75,9 +75,9 @@ Manuscript(s)
 
 Professional Services
 -----
-* Reviewer for journals *CyberSecurity*, *SCN*, *JNCA*.
-* Sub-reviewer for *CCS* (2018), *NDSS* (2017, 2018), *S&P* (2017), *Usenix Security* (2017, 2018), *HPCA* (2019), *ESORICS* (2018), *AsiaCCS* (2017, 2018, 2019) and *RECOMB* (2019) etc.
-* TPC member for *ACM CCS 2019*.
+* Reviewer for journals *TDSC*, *CyberSecurity*, *SCN*, *JNCA*.
+* Sub-reviewer for *CCS* (2018,2020), *NDSS* (2017, 2018), *S&P* (2017,2020), *Usenix Security* (2017, 2018), *HPCA* (2019), *ESORICS* (2018), *AsiaCCS* (2017, 2018, 2019) and *RECOMB* (2019) etc.
+* TPC member for *ACM CCS 2019*, *GenPri 2020*.
 
 Awards
 -----
