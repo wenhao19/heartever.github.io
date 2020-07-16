@@ -76,8 +76,8 @@ Manuscript(s)
 Professional Services
 -----
 * Reviewer for journals *TDSC*, *CyberSecurity*, *SCN*, *JNCA*.
-* Sub-reviewer for *CCS* (2018,2020), *NDSS* (2017, 2018), *S&P* (2017,2020), *Usenix Security* (2017, 2018), *HPCA* (2019), *ESORICS* (2018), *AsiaCCS* (2017, 2018, 2019) and *RECOMB* (2019) etc.
-* TPC member for *ACM CCS 2019*, *GenPri 2020*.
+* Sub-reviewer for *CCS* (2018,2020), *NDSS* (2017, 2018), *S&P* (2017,2020), *Usenix Security* (2017, 2018), *HPCA* (2019), *ESORICS* (2018,2020), *AsiaCCS* (2017, 2018, 2019) and *RECOMB* (2019) etc.
+* TPC member for *ACM CCS 2019*, *GenoPri 2020*.
 
 Awards
 -----
