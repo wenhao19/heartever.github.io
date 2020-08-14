@@ -11,6 +11,8 @@ I am a research associate professor at [Institute of Information Engineering (II
 
 I have been visiting [Prof. XiaoFeng Wang](https://www.informatics.indiana.edu/xw7/)'s group in [Indiana University Bloomington](https://www.indiana.edu/) from April 2016 to August 2018, during which I worked closely with Prof. Wang and [Prof. Haixu Tang](https://www.informatics.indiana.edu/hatang/) in organizing the [Genomic data privacy and security protection competition](http://www.humangenomeprivacy.org/2017/). Please find my cv [here](https://heartever.github.io/files/cv.pdf). 
 
+**Please send an email to wangwenhao@iie.ac.cn if you would like to join our group.**
+
 **Papers published at top-tier security & crypto conferences: CCS'17, S&P'18, Eurocrypt'18, S&P'20.**
 
 Education
@@ -76,7 +78,7 @@ Manuscript(s)
 Professional Services
 -----
 * Reviewer for journals *IEEE TDSC*, *IEEE TC*, *CyberSecurity*, *SCN*, *JNCA*.
-* Sub-reviewer for *CCS* (2018,2020), *NDSS* (2017, 2018), *S&P* (2017,2020), *Usenix Security* (2017, 2018), *HPCA* (2019), *ESORICS* (2018,2020), Asiacrypt (2020), *AsiaCCS* (2017, 2018, 2019) and *RECOMB* (2019) etc.
+* Sub-reviewer for *CCS* (2018, 2020), *NDSS* (2017, 2018, 2021), *S&P* (2017, 2020), *Usenix Security* (2017, 2018), *HPCA* (2019), *ESORICS* (2018, 2020), Asiacrypt (2020), *AsiaCCS* (2017, 2018, 2019) and *RECOMB* (2019) etc.
 * TPC member for *ACM CCS 2019*, *GenoPri 2020*.
 
 Awards
