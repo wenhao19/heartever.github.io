@@ -11,7 +11,7 @@ I am a research associate professor at [Institute of Information Engineering (II
 
 I have been visiting [Prof. XiaoFeng Wang](https://www.informatics.indiana.edu/xw7/)'s group in [Indiana University Bloomington](https://www.indiana.edu/) from April 2016 to August 2018, during which I worked closely with Prof. Wang and [Prof. Haixu Tang](https://www.informatics.indiana.edu/hatang/) in organizing the [Genomic data privacy and security protection competition](http://www.humangenomeprivacy.org/2017/). Please find my cv [here](https://heartever.github.io/files/cv.pdf). 
 
-**Please send an email to [wangwenhao@iie.ac.cn](mailto:wangwenhao@iie.ac.cn) if you would like to join our group. We strongly welcome students with interests in operating system/software/virtualization/hardware-assisted/microarchitectural side channel security/TEE/privacy preserving technologies.**
+**Please send an email to [wangwenhao@iie.ac.cn](mailto:wangwenhao@iie.ac.cn) if you would like to join our group. We welcome students with interests in topics related to operating system/software/virtualization/hardware-assisted security/TEE/privacy preserving technologies/microarchitectural side channels etc.**
 
 **Papers published at top-tier security & crypto conferences: CCS'17, S&P'18, Eurocrypt'18, S&P'20.**
 
